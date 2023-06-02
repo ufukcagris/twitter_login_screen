@@ -56,11 +56,6 @@ Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyin:
 3. Değişikliklerinizi commit'leyin ve push'layın.
 4. Yeni bir pull talebi oluşturun.
 
-## Lisans
-
-Bu projenin lisans bilgileri için lütfen [LICENSE](LICENSE) dosyasına bakın.
-
----
 
 Bu Readme dosyası, projenin amacı ve nasıl kullanılacağı hakkında bilgi sağlamak için oluşturulmuştur. Herhangi bir sorunuz varsa, lütfen iletişime geçmekten çekinmeyin. İyi kullanımlar!
 
